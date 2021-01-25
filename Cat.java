@@ -20,7 +20,7 @@ public class Cat {
         } else{
             fullandhappy = false;
         }
-        System.out.println("The cat is full and happy - " + fullandhappy);
+        System.out.println("The cat is full and happy -  " + fullandhappy);
     }
 
 }
